@@ -1,0 +1,88 @@
+Testing dataset datasets/ALL_atsp/ft70.atsp
+BAC done: 0:00:00.672699
+BCR done: 0:00:04.352531
+BCF done: 0:00:00.012943
+Greedy done: 0:00:00.000597
+Rand. done: 0:00:00.002936
+[745.0, 768.0, 745.0, 745.0, 494.0]
+**************
+Testing dataset datasets/ALL_atsp/kro124p.atsp
+BAC done: 0:00:00.669694
+BCR done: 0:00:05.457271
+BCF done: 0:00:00.011440
+Greedy done: 0:00:00.000494
+Rand. done: 0:00:00.002424
+[994.0, 1008.0, 994.0, 994.0, 509.0]
+**************
+Testing dataset datasets/weighted_digraphs/celegansneural_weighted.txt
+BAC done: 0:00:00.025612
+BCR done: 0:00:00.050121
+BCF done: 0:00:00.008061
+Greedy done: 0:00:00.001177
+Rand. done: 0:00:00.002710
+[7.0, 7.0, 7.0, 7.0, 2.0]
+**************
+Testing dataset datasets/ALL_atsp/rbg323.atsp
+BAC done: 0:00:00.389180
+BCR done: 0:00:01.371766
+BCF done: 0:00:00.008430
+Greedy done: 0:00:00.001085
+Rand. done: 0:00:00.003533
+[12.0, 15.0, 12.0, 12.0, 0.0]
+**************
+Testing dataset datasets/weighted_digraphs/Wiki-Vote.txt
+BAC done: 0:00:00.306061
+BCR done: 0:00:00.740959
+BCF done: 0:00:00.087851
+Greedy done: 0:00:00.008871
+Rand. done: 0:00:00.003850
+[4.0, 4.0, 4.0, 4.0, 2.0]
+**************
+Testing dataset datasets/weighted_digraphs/airport.txt
+BAC done: 0:01:43.560986
+BCR done: 0:07:25.174435
+BCF done: 0:00:00.180024
+Greedy done: 0:00:00.012396
+Rand. done: 0:00:00.005189
+[64036.0, 64036.0, 64036.0, 64036.0, 5.0]
+**************
+Testing dataset datasets/weighted_digraphs/moreno_health_weighted.txt
+BAC done: 0:00:02.729374
+BCR done: 0:00:15.006068
+BCF done: 0:00:00.306267
+Greedy done: 0:00:00.029683
+Rand. done: 0:00:00.004450
+[22.0, 22.0, 22.0, 22.0, 6.0]
+**************
+Testing dataset datasets/weighted_digraphs/openflight.txt
+BAC done: 0:00:01.544157
+BCR done: 0:00:02.260721
+BCF done: 0:00:00.561699
+Greedy done: 0:00:00.117537
+Rand. done: 0:00:00.006132
+[9.0, 9.0, 9.0, 9.0, 3.0]
+**************
+Testing dataset datasets/weighted_digraphs/cora.txt
+BAC done: 0:00:08.700515
+BCR done: 0:00:41.014426
+BCF done: 0:00:01.452746
+Greedy done: 0:00:00.246724
+Rand. done: 0:00:00.006378
+[27.0, 27.0, 27.0, 27.0, 5.0]
+**************
+Testing dataset datasets/weighted_digraphs/bitcoin.txt
+BAC done: 0:00:51.438076
+BCR done: 0:05:12.624829
+BCF done: 0:00:01.937850
+Greedy done: 0:00:00.367446
+Rand. done: 0:00:00.008011
+[77.0, 77.0, 77.0, 77.0, 22.0]
+**************
+Testing dataset datasets/weighted_digraphs/Gnutella_snap.txt
+BAC done: 0:00:11.248899
+BCR done: 0:00:23.312386
+BCF done: 0:00:02.374590
+Greedy done: 0:00:00.460920
+Rand. done: 0:00:00.008066
+[11.0, 12.0, 11.0, 11.0, 5.0]
+**************
